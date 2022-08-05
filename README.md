@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
+![Huythai855's GitHub stats](https://github-readme-stats.vercel.app/api?username=huythai855&show_icons=true)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huythai855&layout=compact&hide=css,html)
