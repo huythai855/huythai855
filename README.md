@@ -11,5 +11,5 @@
 <a href="https://www.instagram.com/__ng_h_thai/" target="blank"><img align="center" src="https://img.shields.io/badge/-__ng_h_thai-F67A00?logo=instagram&logoColor=white" /></a>
 <a href="https://discord.com/huythai#3211" target="blank"><img align="center" src="https://img.shields.io/badge/-Charlie-436EEE?logo=discord&logoColor=white" /></a>
 
-| <img src="https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/295777656_7712273932176973_362980937635197664_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=tpAd9PGIDEIAX_x-Vhq&_nc_ht=scontent.fhan5-10.fna&oh=00_AT_9xtNSK-35ZpnfmeaE48GETbAlVqEudVAedqzyrWjS6A&oe=62F5633D" width="200" height="200"> | ![huythai855's GitHub stats](https://github-readme-stats.vercel.app/api?username=huythai855&show_icons=true) |
-| ------------- | ------------- |
+| <img src="img/profile.jpg" width="200" height="200"> | ![huythai855's GitHub stats](https://github-readme-stats.vercel.app/api?username=huythai855&show_icons=true) |
+|------------------------------------------------------| ------------- |
