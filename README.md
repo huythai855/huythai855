@@ -2,31 +2,34 @@
 ---
 ### 👩‍💻 About me:
 - 🌱 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
-- 🔭 I’m currently studying Bioinformatics & Machine Learning.
+- 🔭 I’m currently working in the field of Cloud Computing & DevOps.
+- ⚡ Favourite quote: "Chances are always for those who are well prepared".
+- 💬 Feel free to ask me about anything about my work or new opportunities.
 - 📫 Contact me through: [nguyenhuythai15@.gmail.com](mailto:nguyenhuythai15@gmail.com).
-- 💬 Feel free to ask me about anything related to my work or new opportunities.
-- ⚡ Favourite quote: "The difference between ordinary and extraordinary is that little extra" – Jimmy Johnson.
+
 
 ### 🛠 Languages & tools:
 <div>          
   <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
+    <img src="./logo/cplusplus.png" title="C++" width="40" height="40" />
+    <img src="./logo/golang.png" title="Golang" width="40" height="40" />
+    <img src="./logo/python.png" title="python" width="40" height="40" />
+    <img src="./logo/java.png" title="Java" width="40" height="40" />
+    <img src="./logo/kubernetes.png" title="Kubernetes" width="40" height="40" />
+    <img src="./logo/docker.png" title="Docker" width="40" height="40" />
+    <img src="./logo/ansible.png" title="Ansible" width="40" height="40" />
+    <img src="./logo/jenkins.png" title="Jenkins" width="40" height="40" />
+    <img src="./logo/aws.png" title="Amazon Web Services" width="40" height="40" />
+    <img src="./logo/gcp.png" title="Google Cloud Platform" width="40" height="40" />
+    <img src="./logo/postgresql.png" title="PostgreSQL" width="40" height="40" />
+    <img src="./logo/mongdb.png" title="MongoDB" width="40" height="40" />
+    <img src="./logo/git.png" title="Git" width="40" height="40" />
+    <img src="./logo/selenium.png" title="Selenium" width="40" height="40" />
+    <img src="./logo/postman.png" title="Postman" width="40" height="40" />
+    <img src="./logo/kubeflow.png" title="Kubeflow" width="40" height="40" />
+    <img src="./logo/kserve.png" title="Kserve" width="40" height="40" />
+    <img src="./logo/ray.png" title="Ray" width="40" height="40" />
+    <img src="./logo/jupiter_notebook.png" title="Jupiter notebook" width="40" height="40" />    
   </p>
 </div>  
 
