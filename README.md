@@ -1,11 +1,11 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+%40huythai855+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+3rd-year+student+from+UET-VNU)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+%40huythai855+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+4th-year+student+from+UET-VNU)
 ---
 ### 👩‍💻 About me:
 - 🌱 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
 - 🔭 I’m currently working in the field of Cloud Computing & DevOps.
 - ⚡ Favourite quote: "Chances are always for those who are well prepared".
 - 💬 Feel free to ask me about anything about my work or new opportunities.
-- 📫 Contact me through: [nguyenhuythai15@.gmail.com](mailto:nguyenhuythai15@gmail.com).
+- 📫 Contact me through: [nguyenhuythai15@gmail.com](mailto:nguyenhuythai15@gmail.com).
 
 
 ### 🛠 Languages & tools:
